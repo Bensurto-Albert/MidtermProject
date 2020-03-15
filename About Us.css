@@ -1,0 +1,77 @@
+
+/* Make the image fully responsive */
+.carousel-inner img {
+    width: 1367px;
+    height: 500px;
+    opacity: 0.80;
+}
+
+#content-wrapper {
+	position:absolute;
+	z-index:1 !important;
+	min-width:100%;
+    min-height:100%;
+    
+}
+#one{
+    font-size: 70px;
+    font-weight: bolder ;
+    color: black;
+}
+#two{
+    font-size: 70px;
+    font-weight: bolder ;
+    color: black;
+    text-align: center;
+    
+    
+}
+#three{
+    font-size: 60px;
+    font-weight: bolder ;
+    color: black;
+    text-align: center;
+ 
+}
+
+
+#we{
+    color: black;
+    font-size: 20px;
+}
+#mis{
+    text-align: justify;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#mymis{
+
+    font-size: 60px;
+    font-weight: bolder ;
+    color: black;
+    text-align: center;
+    
+}
+.well{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+p{
+    text-align: justify;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+#ti{
+    color: white;
+}
+#ti1{
+    color: white;
+}

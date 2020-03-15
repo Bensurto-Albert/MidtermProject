@@ -1,0 +1,22 @@
+#work{
+    font-weight: bolder;
+    text-decoration-color: red;
+}
+
+body{
+    background-image: url(Gym.jpg);background-size: cover; background-attachment: fixed;
+
+}
+#work{
+    color: red;
+    text-align: center;
+    font-weight: bolder;
+    font-style: oblique;
+    margin-top: 100px;
+}
+#work1{
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
